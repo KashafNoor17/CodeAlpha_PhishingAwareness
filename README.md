@@ -4,9 +4,9 @@ A comprehensive phishing awareness training module built as part of the CodeAlph
 
 ## Contents
 
-- `index.html` — Interactive single-page awareness module with 6 sections and a 5-question quiz
-- `PhishingAwareness.pptx` — 8-slide professional presentation covering the same content
-- `README.md` — This file
+- `index.html` : Interactive single-page awareness module with 6 sections and a 5-question quiz
+- `PhishingAwareness.pptx` : 8-slide professional presentation covering the same content
+- `README.md` : This file
 
 ## Features
 
@@ -37,7 +37,7 @@ No installation or internet connection required. The file runs entirely in the b
 
 | Slide | Title | Content |
 |-------|-------|---------|
-| 1 | Title | "Don't Take the Bait" — key statistics on phishing |
+| 1 | Title | "Don't Take the Bait" : key statistics on phishing |
 | 2 | What is Phishing? | Definition, origin, and how attacks work step by step |
 | 3 | Types of Phishing | Email phishing, spear phishing, smishing, vishing, whaling, clone phishing |
 | 4 | 10 Red Flags | Numbered checklist of warning signs to spot phishing |
@@ -99,7 +99,7 @@ Millions of users received emails claiming their PayPal account was limited. A f
 
 **Lesson**: Always verify the sender domain. Never click links in unsolicited emails.
 
-### Case 2: Google & Facebook — $100M Loss
+### Case 2: Google & Facebook : $100M Loss
 
 Between 2013 and 2015, attacker Evaldas Rimasauskas sent fake invoices to Google and Facebook impersonating a legitimate Taiwanese hardware vendor. Both companies wired over $100 million before the fraud was detected.
 
@@ -124,7 +124,7 @@ This module is designed for educational and security awareness purposes only. Al
 
 ## Project Information
 
-Built as part of the **CodeAlpha Cybersecurity Internship Program** — Task 2: Phishing Awareness Training.
+Built as part of the **CodeAlpha Cybersecurity Internship Program**  Task 2: Phishing Awareness Training.
 
 - Website: [www.codealpha.tech](https://www.codealpha.tech)
 - Email: services@codealpha.tech
